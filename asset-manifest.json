@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/typescript-react-unsplash/static/js/main.4a40dd4f.chunk.js",
+    "main.js.map": "/typescript-react-unsplash/static/js/main.4a40dd4f.chunk.js.map",
+    "runtime-main.js": "/typescript-react-unsplash/static/js/runtime-main.e65f69cd.js",
+    "runtime-main.js.map": "/typescript-react-unsplash/static/js/runtime-main.e65f69cd.js.map",
+    "static/js/2.3dd89a2e.chunk.js": "/typescript-react-unsplash/static/js/2.3dd89a2e.chunk.js",
+    "static/js/2.3dd89a2e.chunk.js.map": "/typescript-react-unsplash/static/js/2.3dd89a2e.chunk.js.map",
+    "index.html": "/typescript-react-unsplash/index.html",
+    "static/js/2.3dd89a2e.chunk.js.LICENSE.txt": "/typescript-react-unsplash/static/js/2.3dd89a2e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e65f69cd.js",
+    "static/js/2.3dd89a2e.chunk.js",
+    "static/js/main.4a40dd4f.chunk.js"
+  ]
+}
