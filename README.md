@@ -1,5 +1,9 @@
 # typescript-react-unsplash
 **React app using Typescript , styled-components, Material UI, Axios, Unsplash API </br>**
+
+**Deployed in link: </br>** https://tatata96.github.io/typescript-react-unsplash/#/p-search 
+
+
 2 pages </br>Transition between pages are done with react-router-dom.</br>
 
 Same SearchArea Component is used in both.</br>
@@ -33,7 +37,6 @@ Material UI is not used for pagination. CurrentPage and totalResults states are 
 Clicking a pagination button fires nextPage function,nextPage function makes a call to startSearch in App.js to update images grid.</br></br>
 
 
-**Deployed in link: </br>** https://tatata96.github.io/typescript-react-unsplash/#/p-search 
 
 
 
